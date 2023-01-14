@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('WhatsApp Image 2023-01-13 at 19.38.26.jpeg');
+}
+
+input{
+    color: #64635e;
+    padding: 14px;
+    outline: none;
+
+    font-size: 25px;
+    line-height: 2px;
+    font-family: 'Pacifico', cursive;
+    border-radius: 18%;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.num {
+    width: 55px;
+    height: 55px;
+    border-color: transparent;
+}
+
+.text {
+    width: 160px;
+    height: 26px;
+    border-radius: 20px;
+    letter-spacing: 6px;
+    text-align: center;
+    margin-bottom: 2px;
+    border-color: transparent;
+}
+
+.text1 {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    letter-spacing: 6px;
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-color: transparent;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: #F2EDD0;
+}
+
+.blue {
+    background-color: #ffa908;
+}
+
+.pin {
+    background-color: #F29F05;
+}
+
+.gre {
+    background-color: #F28705;
+}
+
+.pur {
+    background-color: #F27405;
+}
+
+.ora {
+    background-color: #ff7b08;
+}
